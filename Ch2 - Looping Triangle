@@ -1,0 +1,6 @@
+var counter = 0;
+for (var hashtag = "#"; counter < 7; hashtag += "#") {
+  console.log(hashtag);
+  counter = counter + 1;
+
+}
